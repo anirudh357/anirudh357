@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<h1> Hi there, I am <a href="https://github.com/anirudh357" rel="nofollow">Sanjyot Panure</a> 👋 </h1>
+<h1> Hi there, I am <a href="https://github.com/anirudh357" rel="nofollow">Anirudh Sharma</a> 👋 </h1>
 
 I'm an aspiring software developer and an OpenSource enthusiast. I have a lot of interest in C++, Virtual Reality and Web Technologies. Apart from this, creating random artworks also fall in my interest zone.
 <hr>
