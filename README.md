@@ -12,7 +12,7 @@ I'm an aspiring software developer and an OpenSource enthusiast. I have a lot of
 
 <h2> My Skills 👨🏽‍💻 </h2>
 
-> There are several skills I've piked up over the years and technologies that I use or have worked on in the past.
+> There are several skills I've piked up over the years and technologies that I use or have worked on in the past
 
 <p dir="auto"><strong>Programming Languages </strong></p>
 <table>
